@@ -3,7 +3,7 @@
     "status": 0,
     "msg": "No Data.",
     "message": "there is no data found...!!",
-    "version": "3.0",
+    "version": "1.0",
     "version_desc": "1.We Fix Some Crash in Application\r\n2.To Share or Delete Multi Item please Long Press in All WP DATA Section",
     "Update_btn": "Update",
     "Update_Title": "Update This App",
@@ -12,25 +12,25 @@
     "Prmotion_link": "",
     "live_video": "https://ujyuy.com",
     "appadmobinfo": {
-      "Ads_bannerid": "ca-app-pub-3940256099942544/6300978111",
-      "Ads_interid": "ca-app-pub-3940256099942544/1033173712",
-      "Ads_interspash": "ca-app-pub-3940256099942544/1033173712",
-      "Ads_native": "ca-app-pub-3940256099942544/2247696110",
-      "Ads_opendads": "ca-app-pub-3940256099942544/3419835294",
+      "Ads_bannerid": " ",
+      "Ads_interid": " ",
+      "Ads_interspash": " ",
+      "Ads_native": " ",
+      "Ads_opendads": " ",
       "Ads_reward": ""
     },
     "appfbinfo": {
       "fbAds_bannerid": "",
       "fbAds_interid": "",
-      "fbAds_interspash": "222",
-      "fbAds_native": "",
+      "fbAds_interspash": "22",
+      "fbAds_native": "22",
       "fbAds_nativebnr": "",
       "fbAds_reward": ""
     },
     "qurekainfo": {
-      "qureka_single": "http://justknowme.com/Q_Atmeads/a1.jpg,http://justknowme.com/Q_Atmeads/a2.png,http://justknowme.com/Q_Atmeads/a3.png,http://justknowme.com/Q_Atmeads/a4.png,http://justknowme.com/Q_Atmeads/a5.png,http://justknowme.com/Q_Atmeads/a6.png,http://justknowme.com/Q_Atmeads/a7.png,http://justknowme.com/Q_Atmeads/a8.png,http://justknowme.com/Q_Atmeads/a9.png,http://justknowme.com/Q_Atmeads/a8.png,http://justknowme.com/Q_Atmeads/a10.png,http://justknowme.com/Q_Atmeads/a11.png,http://justknowme.com/Q_Atmeads/a12.png,http://justknowme.com/Q_Atmeads/a13.png,http://justknowme.com/Q_Atmeads/a14.png,http://justknowme.com/Q_Atmeads/a15.png,http://justknowme.com/Q_Atmeads/a16.png,http://justknowme.com/Q_Atmeads/a17.png,http://justknowme.com/Q_Atmeads/a18.png,http://justknowme.com/Q_Atmeads/a19,http://justknowme.com/Q_Atmeads/a20.png,http://justknowme.com/Q_Atmeads/a21.png,http://justknowme.com/Q_Atmeads/a22.png,http://justknowme.com/Q_Atmeads/a23.png,http://justknowme.com/Q_Atmeads/a24.png,http://justknowme.com/Q_Atmeads/a25.png,http://justknowme.com/Q_Atmeads/a26.png,http://justknowme.com/Q_Atmeads/a27.png,http://justknowme.com/Q_Atmeads/a28.png,http://justknowme.com/Q_Atmeads/a29.png,http://justknowme.com/Q_Atmeads/a30.png,http://justknowme.com/Q_Atmeads/a31.png,http://justknowme.com/Q_Atmeads/a32.png,http://justknowme.com/Q_Atmeads/a33.png,http://justknowme.com/Q_Atmeads/a34.png,http://justknowme.com/Q_Atmeads/a35.png,http://justknowme.com/Q_Atmeads/a36.png,http://justknowme.com/Q_Atmeads/a37.png,http://justknowme.com/Q_Atmeads/a38.png,http://justknowme.com/Q_Atmeads/a39.png,http://justknowme.com/Q_Atmeads/a40.png",
-      "qureka_bnr": "http://justknowme.com/Q_Atmeads/bnr_a1.png,http://justknowme.com/Q_Atmeads/bnr_a2.png,http://justknowme.com/Q_Atmeads/bnr_a3.png,http://justknowme.com/Q_Atmeads/bnr_a4.png,http://justknowme.com/Q_Atmeads/bnr_a5.png,http://justknowme.com/Q_Atmeads/bnr_a6.png,http://justknowme.com/Q_Atmeads/bnr_a7.png,http://justknowme.com/Q_Atmeads/bnr_a8.png,http://justknowme.com/Q_Atmeads/bnr_a9.png",
-      "qureka_link": "https://play2084.atmegame.com"
+      "qureka_single": "",
+      "qureka_bnr": "",
+      "qureka_link": ""
     }
   }
 }
